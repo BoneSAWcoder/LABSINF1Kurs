@@ -5,7 +5,6 @@ class SubjectClass():
         self.Name = name
         self.Task = int(Tasks)
         self.TaskDone = int(TD)
-        print(self.TaskDone)
 
 class student():
     Surname = str()
@@ -33,14 +32,25 @@ for GroupObj in SuperList:
     for StudObj in GroupObj.GroupList:
         Formattext2 = "Groups/Group[@GNum='{0}']/Student[@ID='{1}']/Subject".format(GroupObj.Name, StudObj.ID)
         StudObj.SubjectList = [SubjectClass(Subjects.get('SName'), Subjects.find("Tasks").text, Subjects.find("Tasks_Done").text) for Subjects in root.findall(Formattext2)]
-print('3')
+print('2.1')
 for GroupObj in SuperList:
     print(GroupObj.Name,': ')
     for Studobj in GroupObj.GroupList:
-        Counter = 0
-        for GroupObj2 in SuperList:
-            for Studobj2 in GroupObj2.GroupList:
-                if (StudObj.Surname == Studobj2.Surname) and ((GroupObj.Name != GroupObj2.Name) or (StudObj.ID != Studobj2.ID)) :
-                    print(StudObj.Surname, Studobj2.Surname)
-                    Counter = Counter + 1
-        print(Studobj.Surname, Studobj.Name, Studobj.Midame, Counter)
+        print(Studobj.Surname, Studobj.Name, Studobj.Midame)
+
+print('2.2, 2.3, 2.4')
+print(SuperList[0].GroupList[2].Surname)
+TaskAll = 0
+TaskDoneAll = 0
+for SubjObj in SuperList[0].GroupList[2].SubjectList:
+   PercentSub = SubjObj.TaskDone/SubjObj.Task*100
+   print(SubjObj.Name,': ', SubjObj.Task,'работ сделано', PercentSub,'Процент готовности по предмету')
+   TaskAll = TaskAll + SubjObj.Task
+   TaskDoneAll = TaskDoneAll + SubjObj.TaskDone
+print(TaskDoneAll/TaskAll*100,' общий процент готовности')
+
+print(3)
+print(SuperList[0].GroupList[2].Surname)
+for SubjObj in SuperList[0].GroupList[2].SubjectList:
+   if SubjObj.TaskDone/SubjObj.Task*100 > 50 :
+    print(SubjObj.Name,': ', SubjObj.Task,'работ сделано', PercentSub,'Процент готовности по предмету')

@@ -1,7 +1,7 @@
 <Catalog>
     <Students>
         <Student id="1">
-            <Surname>Yazov</Surname>
+            <Surname>Minakov</Surname>
             <Exams>
                 <Math>90</Math>
                 <RusLang>100</RusLang>
@@ -9,7 +9,7 @@
             </Exams>
         </Student>
         <Student id="2">
-            <Surname>Bumeich</Surname>
+            <Surname>Emelyanov</Surname>
             <Exams>
                 <Math>35</Math>
                 <RusLang>90</RusLang>
@@ -17,7 +17,7 @@
             </Exams>
         </Student>
         <Student id="3">
-            <Surname>Karpov</Surname>
+            <Surname>Kovalchuk</Surname>
             <Exams>
                 <Math>70</Math>
                 <RusLang>34</RusLang>
