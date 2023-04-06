@@ -1,0 +1,162 @@
+<Catalog>
+    <Groups>
+        <Group GNum = 'ТШБО-01-22'>
+            <Student name = 'Сергей' surname = 'Гаврилушкин' midname = 'Андреевич' ID = '1'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>12</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>5</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>10</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>1</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>0</Tasks_Done>
+                </Subject>
+            </Student>
+            <Student name = 'Сергей' surname = 'Радаев' midname = 'Дмитриевич' ID = '2'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>22</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>10</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>20</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>8</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>25</Tasks_Done>
+                </Subject>
+            </Student>
+            <Student name = 'Иван' surname = 'Косыгин' midname = 'Алексеевич' ID = '3'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>34</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>0</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>0</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>9</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>53</Tasks_Done>
+                </Subject>
+            </Student>
+            <Student name = 'Николай' surname = 'Маслов' midname = 'Иванович' ID = '4'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>0</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>10</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>25</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>5</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>54</Tasks_Done>
+                </Subject>
+            </Student>
+        </Group>
+        <Group GNum = 'ТШБО-02-22'>
+            <Student name = 'Андрей' surname = 'Марков' midname = 'Кирилович' ID = '1'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>18</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>10</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>19</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>9</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>10</Tasks_Done>
+                </Subject>
+            </Student>
+            <Student name = 'Ростислав' surname = 'Орский' midname = 'Алексеевич' ID = '2'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>22</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>10</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>20</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>8</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>25</Tasks_Done>
+                </Subject>
+            </Student>
+            <Student name = 'Алексей' surname = 'Косыгин' midname = 'Ивановичвич' ID = '3'>
+                <Subject SName = 'Математический анализ'>
+                    <Tasks>34</Tasks>
+                    <Tasks_Done>34</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Английский язык'>
+                    <Tasks>12</Tasks>
+                    <Tasks_Done>0</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Философия'>
+                    <Tasks>25</Tasks>
+                    <Tasks_Done>0</Tasks_Done>
+                </Subject>
+                <Subject SName = 'История'>
+                    <Tasks>9</Tasks>
+                    <Tasks_Done>9</Tasks_Done>
+                </Subject>
+                <Subject SName = 'Линейная алгебра'>
+                    <Tasks>54</Tasks>
+                    <Tasks_Done>53</Tasks_Done>
+                </Subject>
+            </Student>
+        </Group>
+    </Groups>
+</Catalog>
