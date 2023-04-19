@@ -1,0 +1,76 @@
+{
+    "apartments": [
+        {
+            "district": "Arbat",
+            "address": "Malaya Molchanovka street, 6",
+            "square": "133.9",
+            "cost": "136_000_000",
+            "floor": "2",
+            "DateOfPlacement": "18.11.2004"
+        },
+        {
+            "district": "Arbat",
+            "address": "Trubnikovski lane, 13",
+            "square": "69",
+            "cost": "33_000_000",
+            "floor": "1",
+            "DateOfPlacement": "11.11.2022"
+        },
+        {
+            "district": "Arbat",
+            "address": "Novinski boulevard,18B",
+            "square": "54.8",
+            "cost": "23_000_000",
+            "floor": "3",
+            "DateOfPlacement": "15.03.2022"
+        },
+        {
+            "district": "Sokolniki",
+            "address": "2nd Sokolnicheskaya street, 4",
+            "square": "64.5",
+            "cost": "19_000_000",
+            "floor": "2",
+            "DateOfPlacement": "20.05.2022"
+        },
+        {
+            "district": "Sokolniki",
+            "address": "Korolenko street, 4/14",
+            "square": "75.9",
+            "cost": "18_700_000",
+            "floor": "3",
+            "DateOfPlacement": "26.07.2020"
+        },
+        {
+            "district": "Sokolniki",
+            "address": "Bolshoi Matrosski lane, 1",
+            "square": "39",
+            "cost": "13_700_000",
+            "floor": "2",
+            "DateOfPlacement": "16.05.2013"
+        },
+        {
+            "district": "tekstilshiki",
+            "address": "Voljski boulevard, 18K2",
+            "square": "31.4",
+            "cost": "8_300_000",
+            "floor": "2",
+            "DateOfPlacement": "27.02.2030"
+        },
+        {
+            "district": "tekstilshiki",
+            "address": "Lubinskaya street, 23",
+            "square": "56.4",
+            "cost": "13_150_000",
+            "floor": "6",
+            "DateOfPlacement": "29.12.2001"
+        },
+        {
+            "district": "tekstilshiki",
+            "address": "Chistova street, 8/21",
+            "square": "76.1",
+            "cost": "18_300_000",
+            "floor": "1",
+            "DateOfPlacement": "1.01.2023"
+        }
+    ]
+}
