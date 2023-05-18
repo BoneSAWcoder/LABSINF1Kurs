@@ -1,0 +1,28 @@
+<Catalog>
+    <Students>
+        <Student id="0">
+            <Surname>Minakov</Surname>
+            <Exams>
+                <Math>999</Math>
+                <RusLang>999</RusLang>
+                <Inform>999</Inform>
+            </Exams>
+        </Student>
+        <Student id="1">
+            <Surname>Emelyanov</Surname>
+            <Exams>
+                <Math>100</Math>
+                <RusLang>90</RusLang>
+                <Inform>82</Inform>
+            </Exams>
+        </Student>
+        <Student id="2">
+            <Surname>Kovalchuk</Surname>
+            <Exams>
+                <Math>34</Math>
+                <RusLang>56</RusLang>
+                <Inform>100</Inform>
+            </Exams>
+        </Student>
+    <Student id="3"><Surname>Mazurkevich</Surname><Exams><Math>50</Math><RusLang>100</RusLang><Inform>30</Inform></Exams></Student></Students>
+</Catalog>
