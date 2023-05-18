@@ -1,0 +1,125 @@
+{
+"staff":[
+{
+    "Number": "11",
+    "FIO": "Иванов Иван Иванович",
+    "Department": "Администрация",
+    "Payments": [
+    {
+    "Year": "2010",
+    "Month": "1",
+    "Payment value": "150000"
+    },
+    {
+    "Year": "2010",
+    "Month": "2",
+    "Payment value": "130000"
+    },
+    {
+    "Year": "2010",
+    "Month": "3",
+    "Payment value": "135000"
+    },
+    {
+    "Year": "2011",
+    "Month": "1",
+    "Payment value": "131000"
+    },
+    {
+    "Year": "2011",
+    "Month": "2",
+    "Payment value": "137000"
+    },
+    {
+    "Year": "2011",
+    "Month": "3",
+    "Payment value": "140000"
+    },
+    {
+    "Year": "2012",
+    "Month": "1",
+    "Payment value": "135000"
+    },
+    {
+    "Year": "2012",
+    "Month": "2",
+    "Payment value": "137000"
+    }
+    ] 
+},
+{
+    "Number": "12",
+    "FIO": "Зверев Лев Моисеевич",
+    "Department": "Отдел кадров",
+    "Payments": [
+    {
+    "Year": "2011",
+    "Month": "1",
+    "Payment value": "150000"
+    },
+    {
+    "Year": "2011",
+    "Month": "2",
+    "Payment value": "130000"
+    },
+    {
+    "Year": "2011",
+    "Month": "3",
+    "Payment value": "230000"
+    },
+    {
+    "Year": "2011",
+    "Month": "4",
+    "Payment value": "210000"
+    },
+    {
+    "Year": "2012",
+    "Month": "1",
+    "Payment value": "135000"
+    },
+    {
+    "Year": "2012",
+    "Month": "2",
+    "Payment value": "137000"
+    },
+    {
+    "Year": "2012",
+    "Month": "3",
+    "Payment value": "140000"
+    },
+    {
+    "Year": "2012",
+    "Month": "4",
+    "Payment value": "135000"
+    }
+    ] 
+},
+{
+    "Number": "13",
+    "FIO": "Филатов Борис Николаевич",
+    "Department": "Отдел кадров",
+    "Payments": [
+    {
+    "Year": "2012",
+    "Month": "1",
+    "Payment value": "235000"
+    },
+    {
+    "Year": "2012",
+    "Month": "2",
+    "Payment value": "437000"
+    },
+    {
+    "Year": "2012",
+    "Month": "3",
+    "Payment value": "340000"
+    },
+    {
+    "Year": "2012",
+    "Month": "4",
+    "Payment value": "235000"
+    }
+    ] 
+}
+]
+}   
